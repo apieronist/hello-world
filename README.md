@@ -40,3 +40,5 @@ Plataforma	Enlace
 Email	[tu.email@ejemplo.com]
 LinkedIn	[Tu Enlace de LinkedIn]
 Twitter / X (Opcional)	[@TuUsuarioX]
+
+# Agregar imágenes
