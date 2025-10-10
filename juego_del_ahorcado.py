@@ -1,7 +1,7 @@
 import random
 
 # Leer palabras desde el archivo palabras_rae.txt
-with open('palabras_rae.txt', encoding='utf-8') as f:
+with open('hello-world/palabras_rae.txt', encoding='utf-8') as f:
     palabras = [line.strip() for line in f if line.strip()]
 
 palabra = random.choice(palabras)
